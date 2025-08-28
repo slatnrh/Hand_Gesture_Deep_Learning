@@ -1,0 +1,2 @@
+0	no click
+1	click
